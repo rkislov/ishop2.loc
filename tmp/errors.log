@@ -38,3 +38,15 @@
 ====================
 [2018-03-09 22:25:17] Текст ошибки: Метод app\controllers\MainController::indexAction не найден| Файл: C:\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 42
 ====================
+[2018-03-10 13:28:25] Текст ошибки: Контроллер app\controllers\PageController не найден| Файл: C:\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 48
+====================
+[2018-03-10 13:28:25] Текст ошибки: Страница не найдена| Файл: C:\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51
+====================
+[2018-03-10 13:28:48] Текст ошибки: Контроллер app\controllers\PageController не найден| Файл: C:\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 48
+====================
+[2018-03-10 13:28:48] Текст ошибки: Страница не найдена| Файл: C:\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51
+====================
+[2018-03-10 13:28:54] Текст ошибки: Страница не найдена| Файл: C:\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 51
+====================
+[2018-03-10 14:13:32] Текст ошибки: Страница не найдена| Файл: C:\OSPanel\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 50
+====================
