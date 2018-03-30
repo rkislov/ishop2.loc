@@ -8,7 +8,7 @@
 
 return [
     'admin_email' => 'admin@admin.ru',
-    'shop_name' => 'Магазин ishop2.loc',
+    'shop_name' => 'Магазин ishop2.kislovs.ru',
     'pagination' => 3,
     'smtp_login' => '',
     'smtp_password' => '',

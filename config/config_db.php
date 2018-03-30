@@ -7,7 +7,7 @@
  */
 
 return [
-  'dsn'=> 'mysql:host=localhost;dbname=ishop2;charset=utf8',
-  'user'=>'root',
-    'password'=>'',
+  'dsn'=> 'mysql:host=kislovs.ru:33306;dbname=ishop2;charset=utf8',
+  'user'=>'rkislov',
+    'password'=>'Rkislov2006',
 ];
